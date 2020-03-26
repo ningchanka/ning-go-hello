@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1.14
 
 RUN mkdir -p /go/src/golang-docker
 ADD . /go/src/golang-docker
