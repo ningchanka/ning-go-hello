@@ -1,0 +1,1 @@
+web: bin/ning-go-hello
